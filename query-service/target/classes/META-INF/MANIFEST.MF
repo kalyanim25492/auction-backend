@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Hp
+Build-Jdk: 17.0.7
+Implementation-Title: kafka-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/query-service
+Created-By: Maven Integration for Eclipse
+

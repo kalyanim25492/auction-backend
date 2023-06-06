@@ -1,0 +1,5 @@
+com\javatechie\spring\zulu\api\filter\RouteFilter.class
+com\javatechie\spring\zulu\api\CommonGatewayApplication.class
+com\javatechie\spring\zulu\api\filter\ErrorFilter.class
+com\javatechie\spring\zulu\api\filter\PostFilter.class
+com\javatechie\spring\zulu\api\filter\PreFilter.class

@@ -1,0 +1,5 @@
+D:\WorkSpace\cqrs-auct\cqrs-test\cqrs\common-gateway\src\main\java\com\javatechie\spring\zulu\api\CommonGatewayApplication.java
+D:\WorkSpace\cqrs-auct\cqrs-test\cqrs\common-gateway\src\main\java\com\javatechie\spring\zulu\api\filter\RouteFilter.java
+D:\WorkSpace\cqrs-auct\cqrs-test\cqrs\common-gateway\src\main\java\com\javatechie\spring\zulu\api\filter\ErrorFilter.java
+D:\WorkSpace\cqrs-auct\cqrs-test\cqrs\common-gateway\src\main\java\com\javatechie\spring\zulu\api\filter\PostFilter.java
+D:\WorkSpace\cqrs-auct\cqrs-test\cqrs\common-gateway\src\main\java\com\javatechie\spring\zulu\api\filter\PreFilter.java
